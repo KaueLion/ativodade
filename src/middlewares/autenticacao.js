@@ -1,3 +1,4 @@
+
 import jwt from "jsonwebtoken";
 
 function verificarAutenticacao(req, res, next) {
